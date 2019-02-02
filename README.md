@@ -1,1 +1,1 @@
-# PCMaster.pro v.1 2017
+# PCMaster.pro 2017
